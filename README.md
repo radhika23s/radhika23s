@@ -6,8 +6,8 @@
 ❖ 🔐 Passionate about Cybersecurity, Software Development, AI & Data Analytics<br>
 ❖ 🌱 Currently exploring DSA, Machine Learning, Web Development & Security Research<br>
 ❖ ⚡ C • C++ • Python • SQL • JavaScript • MySQL • MongoDB<br>
-❖ 🏆 Crest CTF 2026 Top 5 <br>
-❖ 🏅 Finalist in the 8-Hour Offline Hackathon & Jury Pitch at Hacksphere 1.0<br>
+❖ 🏆 5th rank in Crest CTF 2026 <br>
+❖ 🏅 Finalist in the 8-Hour Offline Hackathon & Jury Pitch at Hacksphere 1.0 <br>
 ❖ 🚀 Building, learning, and solving real-world problems through projects, hackathons, and CTFs <br>
 
 ## 🌐 Socials:
