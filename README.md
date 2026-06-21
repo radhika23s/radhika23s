@@ -128,7 +128,7 @@
 
 ## ❖ GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radhika23s&show_icons=true&theme=cobalt&hide_border=false)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radhika23s&show_icons=true&theme=cobalt&hide_border=false) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=radhika23s&show_icons=true&theme=cobalt&hide_border=false)
 
